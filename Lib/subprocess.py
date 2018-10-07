@@ -261,6 +261,7 @@ def _args_from_interpreter_flags():
         'debug': 'd',
         # 'inspect': 'i',
         # 'interactive': 'i',
+        'isolated': 'I',
         'dont_write_bytecode': 'B',
         'no_user_site': 's',
         'no_site': 'S',
